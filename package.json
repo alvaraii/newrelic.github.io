@@ -1,0 +1,7 @@
+{
+  "name": "shopify-add-oxygen-workflow-b9u9",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest"
+  }
+}
